@@ -11,6 +11,10 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "app"
+		"liveServer.settings.multiRootWorkspaceName": "app",
+		"cSpell.words": [
+			"Demuxer",
+			"qvga"
+		]
 	}
 }
